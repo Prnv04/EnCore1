@@ -37,7 +37,7 @@ The project includes:
 - **Simulation Files:** Contains the KiCAD simulation files (`BuckConverterLT.asc` directory) and output data.
 - **PCB Layout:** The PCB layout designed in Altium is available in the `pcb/` folder.
 - **Video Demonstration:** A step-by-step explanation of the simulation results has been recorded and uploaded on YouTube.  
-  [Video Link](https://www.youtube.com/YourVideoLink)
+  [Video Link](https://youtu.be/VzP02CuskdQ)
 
 ### How to Use the Files
 
